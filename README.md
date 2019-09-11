@@ -3,4 +3,4 @@ my first repository
 
 hi,how are you?
 
-i
+i am fine.
